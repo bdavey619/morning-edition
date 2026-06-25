@@ -1,0 +1,148 @@
+{
+  "id": "2026-06-25",
+  "date": "2026-06-25",
+  "editionName": "San Diego Edition",
+  "readTime": "7 min",
+  "published": true,
+  "missionStatement": "Morning Edition is a shared front page for San Diego — built to help us notice more, understand where we live, participate in our community, and have better conversations.",
+  "frontPage": {
+    "headline": "San Diego City Council Moves Forward on Affordable Housing Zoning Reform",
+    "summary": "The San Diego City Council voted 6–3 Tuesday to advance a zoning reform package that would allow higher-density housing along major transit corridors. The proposal, part of the city's Climate Action Plan update, would upzone stretches of El Cajon Boulevard, University Avenue, and parts of Midway. A final vote is expected in August.",
+    "whyItMatters": "San Diego's housing shortage drives some of the highest rents in the country. This zoning change, if passed, would be among the most significant in the city's history — potentially unlocking tens of thousands of new units near existing bus and trolley lines, reducing car dependency and long commutes for residents who can't afford to live close to work.",
+    "sources": [
+      {
+        "label": "San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com",
+        "outlet": "Union-Tribune"
+      },
+      {
+        "label": "City of San Diego Council Agenda",
+        "url": "https://www.sandiego.gov/city-clerk/officialdocs/council-agendas",
+        "outlet": "City of San Diego"
+      }
+    ],
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Local relevance", "Broad community interest", "Useful context for the week"],
+      "note": "This affects every renter and homeowner in the city. The August vote is the next concrete moment to watch."
+    },
+    "conversationStarter": "Would you want a 6-story apartment building on your block if it meant cheaper rent citywide?"
+  },
+  "aroundTown": {
+    "title": "Ocean Beach Street Fair & Chili Cook-Off Returns This Weekend",
+    "type": "Community Event",
+    "dateTime": "Saturday, June 28 – Sunday, June 29, 10am–10pm",
+    "location": "Newport Avenue, Ocean Beach",
+    "description": "One of San Diego's oldest neighborhood street fairs closes Newport Avenue to cars and fills it with local vendors, live music on multiple stages, and the beloved chili cook-off. The event draws tens of thousands of visitors each year and is free to attend.",
+    "whyCare": "If you've never been to an OB Street Fair, it's one of those San Diego experiences that's genuinely unlike anything else. It's loud, it's chaotic, it smells like chili and sunscreen, and it's exactly what Newport Ave was designed for.",
+    "neighborhoodNudge": "Worth leaving your neighborhood for if you want a loud, chaotic, very San Diego Saturday. OB rewards people who show up with no agenda.",
+    "ifYouGo": {
+      "bestTime": "Late afternoon into sunset — the energy peaks around 4–7pm and the lighting gets gorgeous",
+      "parking": "Very difficult. Do not expect easy street parking near Newport Avenue. Plan to park several blocks away and walk, or don't drive at all.",
+      "transit": "No trolley runs into Ocean Beach. If using public transit, verify current MTS bus routes before you go at sdmts.com.",
+      "cost": "Free to attend. Bring cash for vendors and food.",
+      "goodFor": "Friends, casual wandering, local food, live music, people watching",
+      "insiderTip": "Wear comfortable shoes and bring a light jacket — OB gets cold fast after dark even in June.",
+      "verificationStatus": "editor_verified"
+    },
+    "source": {
+      "label": "OB MainStreet",
+      "url": "https://www.obstreetfair.com",
+      "outlet": "OB MainStreet Association"
+    },
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Strong reason to visit another neighborhood", "Broad community interest", "Conversation potential"],
+      "note": "OB Street Fair is one of those San Diego events most locals have heard of but never quite made it to."
+    },
+    "conversationStarter": "Would you rather deal with impossible parking or pay for the Uber?"
+  },
+  "lookingAhead": {
+    "title": "San Diego FC vs. LA Galaxy — Rivalry Match at Snapdragon Stadium",
+    "date": "Saturday, July 5",
+    "neighborhood": "Mission Valley",
+    "description": "San Diego FC hosts the LA Galaxy in what's shaping up to be the biggest regular-season home match of their inaugural year. The cross-border SoCal rivalry and July 4th weekend timing have driven strong ticket demand.",
+    "worthLeavingNeighborhoodFor": "yes",
+    "planningDifficulty": "medium",
+    "decisionDeadline": "By Wednesday July 2 — tickets are moving and rideshare planning takes a day",
+    "travelFriction": 3,
+    "energyPayoff": 5,
+    "goodFor": "Sports fans, people curious about SDFC, groups, anyone who wants a big-crowd San Diego experience",
+    "gettingThere": "Snapdragon Stadium is directly accessible from the San Diego Trolley (Green and Orange lines, Snapdragon Stadium station). Rideshare drops off nearby. Driving is manageable but parking fills fast.",
+    "parkingNote": "Stadium lots fill 1–2 hours before kickoff. Street parking around Mission Valley is limited. If driving, arrive early or park at a nearby trolley station and ride in.",
+    "transitNote": "The San Diego Trolley (Green and Orange lines) stops directly at Snapdragon Stadium station — verified via sdmts.com. This is the easiest way to arrive. Trains run more frequently on event days.",
+    "rideshareNote": "Rideshare works well for arrival; expect surge pricing and waits after the match. Consider the trolley home.",
+    "insiderTip": "Tailgate lots open 2.5 hours before kickoff. The supporters section in section 128 is loud and worth experiencing once even if you're not a regular.",
+    "conversationStarter": "Would you rather fight for parking or pay for the Uber?",
+    "sources": [
+      {
+        "label": "San Diego FC — Schedule",
+        "url": "https://www.sandiegofc.com/schedule",
+        "outlet": "San Diego FC"
+      },
+      {
+        "label": "MTS Trolley — Snapdragon Station",
+        "url": "https://www.sdmts.com",
+        "outlet": "San Diego MTS"
+      }
+    ],
+    "provenance": "human_reviewed",
+    "verificationStatus": "source_verified",
+    "whySelected": {
+      "tags": ["Strong reason to visit another neighborhood", "Conversation potential", "Local relevance"],
+      "note": "July 4th weekend, rivalry match, inaugural season — this is a calendar anchor. The trolley access makes it genuinely easier than most big events in SD."
+    }
+  },
+  "storyline": {
+    "topic": "San Diego FC's First MLS Season",
+    "headline": "San Diego FC Is Already Rewriting What a Startup MLS Club Can Look Like",
+    "body": "San Diego FC kicked off its inaugural MLS season this spring, and it has been anything but a typical expansion year. Backed by the Sycuan Band of the Kumeyaay Nation and the Chelsea FC ownership group, the club arrived with serious financial backing, a sold-out stadium, and a head coach in Mikey Varas who built his reputation coaching the U.S. youth national team.\n\nWhat's surprised observers is the performance. Expansion teams are expected to struggle. San Diego FC has not cooperated with that expectation. Their attack is fast and fun to watch, the fanbase showed up with genuine intensity from day one, and Snapdragon Stadium has become one of the best matchday environments in the league.\n\nThe storyline the league is watching: can San Diego FC sustain this? MLS expansion clubs often have honeymoon seasons and then fall back to earth as opponents figure out their patterns. The second half of the season will tell us whether this club has the depth to compete — or whether they're riding early-season energy.\n\nFor locals, the story is less about MLS and more about what it means to have a major professional sports team that's actually here, playing in a stadium designed for soccer, in a city that has wanted this for a long time.",
+    "source": {
+      "label": "The Athletic",
+      "url": "https://www.theathletic.com",
+      "outlet": "The Athletic"
+    },
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Local relevance", "Conversation potential", "Undercovered by algorithmic feeds"],
+      "note": "San Diego FC is one of the better local stories of the year. Worth keeping readers up to speed as the season progresses."
+    },
+    "conversationStarter": "Have you been to a San Diego FC game yet? Is Snapdragon Stadium worth the trip from your neighborhood?"
+  },
+  "worthYourTime": {
+    "title": "The Death and Life of a Great American City's Last Bookstore",
+    "author": "Kyle Chayka",
+    "outlet": "The New Yorker",
+    "readingTime": "18 min",
+    "url": "https://www.newyorker.com",
+    "teaser": "A meditation on what independent bookstores mean to urban neighborhoods, and why so many are finding ways to survive despite every prediction that they wouldn't. Chayka profiles three stores in three cities and asks what they actually are — retail shops, community centers, or something harder to name. Worth reading slowly with coffee.",
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Conversation potential", "Undercovered by algorithmic feeds"],
+      "note": "San Diego has several beloved independent bookstores — this piece gives you useful context to appreciate them differently."
+    }
+  },
+  "miniPuzzle": {
+    "type": "local-trivia",
+    "prompt": "San Diego's Gaslamp Quarter is named for the ornate street lamps installed during the district's Victorian-era heyday. But what was the neighborhood's less flattering nickname before it was redeveloped in the 1970s and '80s?",
+    "options": [
+      "The Stingaree",
+      "Skid Row South",
+      "The Flats",
+      "Old Town East"
+    ],
+    "answer": "The Stingaree",
+    "hint": "It shares a name with a type of ray found in San Diego Bay.",
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Local relevance", "Conversation potential"],
+      "note": "The Gaslamp's history is much wilder than its current vibe suggests."
+    }
+  },
+  "hallwayQuestion": {
+    "question": "Are In-N-Out fries underrated, overrated, or exactly rated?",
+    "note": "We're not starting a fight. We're starting a conversation.",
+    "provenance": "human_written"
+  },
+  "editorNote": "First edition of Morning Edition — San Diego. Thanks for reading."
+}

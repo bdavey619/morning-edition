@@ -1,0 +1,109 @@
+{
+  "id": "2026-06-23",
+  "date": "2026-06-23",
+  "editionName": "San Diego Edition",
+  "readTime": "5 min",
+  "published": true,
+  "missionStatement": "Morning Edition is a shared front page for San Diego — built to help us notice more, understand where we live, participate in our community, and have better conversations.",
+  "frontPage": {
+    "headline": "Caltrans Announces I-5 North County Express Lane Extension Timeline",
+    "summary": "Caltrans released a project timeline Monday for the I-5 North County express lane extension, which would add 20 miles of managed lanes between Oceanside and Del Mar. Construction is projected to begin in late 2027, with completion expected in 2031. The project has faced community pushback over noise walls and displacement concerns near Encinitas.",
+    "whyItMatters": "If you commute on I-5 — and a lot of people in San Diego County do — this project will affect your daily life for at least the next five years. The timeline is significant because it sets community expectations and triggers environmental review processes that residents can still participate in.",
+    "sources": [
+      {
+        "label": "Caltrans District 11",
+        "url": "https://dot.ca.gov/caltrans-near-me/district-11",
+        "outlet": "Caltrans"
+      },
+      {
+        "label": "San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com",
+        "outlet": "Union-Tribune"
+      }
+    ],
+    "provenance": "ai_drafted",
+    "whySelected": {
+      "tags": ["Local relevance", "Useful context for the week", "Broad community interest"],
+      "note": "Infrastructure projects are chronically underreported until they're unavoidable. This is the right time to surface it."
+    },
+    "conversationStarter": "Do you commute on the I-5? Does a 2031 finish date feel realistic or laughable?"
+  },
+  "aroundTown": {
+    "title": "Mission Hills Nursery Turns 100",
+    "type": "Local Discovery",
+    "description": "Mission Hills Nursery, a family-owned garden center on Fort Stockton Drive, is celebrating its 100th anniversary this month with a series of free weekend workshops on native California plants, water-wise landscaping, and backyard birding. The nursery has operated in the same location since 1926 and is one of the oldest continuously operating businesses in San Diego.",
+    "whyCare": "A century in one place, in one family, in one city — that's remarkable. And the native plant workshops are genuinely useful for anyone trying to make their yard less dependent on water.",
+    "neighborhoodNudge": "Mission Hills is one of those neighborhoods that rewards wandering — combine the nursery with a walk down Fort Stockton and lunch nearby and you've got a good Saturday morning.",
+    "ifYouGo": {
+      "bestTime": "Weekend mornings when the workshops are scheduled (check their site for times)",
+      "parking": "Easy. Street parking on Fort Stockton and side streets is generally available.",
+      "transit": "Not the most transit-accessible, but the #3 bus on Washington Street gets you within a 10-minute walk.",
+      "cost": "Free for workshops. Plants and supplies at normal nursery prices.",
+      "goodFor": "Anyone with a yard or patio, garden enthusiasts, native plant curious people, families",
+      "insiderTip": "The staff actually know what they're talking about. Ask for help finding water-wise plants for your specific sun situation.",
+      "verificationStatus": "editor_verified"
+    },
+    "source": {
+      "label": "Mission Hills Nursery",
+      "url": "https://www.missionhillsnursery.com",
+      "outlet": "Mission Hills Nursery"
+    },
+    "provenance": "community_submitted",
+    "whySelected": {
+      "tags": ["Local relevance", "Strong reason to visit another neighborhood", "Undercovered by algorithmic feeds"],
+      "note": "Submitted by a reader. Verified and worth including — 100 years in the same spot is a genuine community anchor."
+    },
+    "conversationStarter": "Do you have plants at home? Is gardening something you've always wanted to try or something you've given up on?"
+  },
+  "storyline": {
+    "topic": "The Padres' Rotation Question",
+    "headline": "The Padres Have a Great Offense. Do They Have Enough Pitching to Go Deep?",
+    "body": "The Padres entered June looking like a legitimate contender. The lineup is one of the most dangerous in the National League, and the bullpen has been steadier than in recent seasons. But the starting rotation remains the team's most pressing question heading into the second half.\n\nDylan Cease has been everything the Padres hoped for since acquiring him. The problem is what comes after him. The team's number two and three starters have been inconsistent, and injury risks loom over a staff that doesn't have obvious depth waiting in the minors.\n\nThe trade deadline is in late July, and the Padres have been scouting starting pitching for months. Whether they pull the trigger — and how much they give up to do it — will define the rest of this season. The window feels real. The ownership group has been patient with this roster. If it doesn't happen this year, the rebuild conversations will start again.\n\nWatch the next six weeks closely. The Padres' record in one-run games will tell you whether they're built to win in October.",
+    "source": {
+      "label": "The Athletic",
+      "url": "https://www.theathletic.com",
+      "outlet": "The Athletic"
+    },
+    "provenance": "human_written",
+    "whySelected": {
+      "tags": ["Conversation potential", "Local relevance"],
+      "note": "The Padres are a reliable conversation starter for San Diegans across neighborhoods. This storyline gives people something specific to talk about."
+    },
+    "conversationStarter": "Are the Padres going to make a move at the deadline, or is this the roster they're riding?"
+  },
+  "worthYourTime": {
+    "title": "Why Your Brain Loves a Morning Routine (and What That Means)",
+    "author": "Annie Murphy Paul",
+    "outlet": "TIME",
+    "readingTime": "9 min",
+    "url": "https://time.com",
+    "teaser": "A look at the neuroscience of habit formation and why the first hour of the day has an outsized effect on how the rest of it goes. Paul writes with clarity and avoids the self-help clichés — this is science journalism, not productivity advice. Good read for a Thursday morning.",
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Conversation potential", "Broad community interest"],
+      "note": "Fits the mission of Morning Edition directly — something to read in the morning that makes the morning more interesting."
+    }
+  },
+  "miniPuzzle": {
+    "type": "local-trivia",
+    "prompt": "San Diego is sometimes called 'America's Finest City' — a nickname that's been around since the 1970s. But what major event in 1972 helped popularize the slogan?",
+    "options": [
+      "The Republican National Convention",
+      "The opening of Sea World",
+      "The Super Bowl",
+      "The first Comic-Con"
+    ],
+    "answer": "The Republican National Convention",
+    "hint": "The convention was originally slated for a different city but moved to San Diego due to political pressure.",
+    "provenance": "ai_drafted",
+    "whySelected": {
+      "tags": ["Local relevance"],
+      "note": "The nickname's origin is one of those bits of local trivia that most San Diegans have never thought to question."
+    }
+  },
+  "hallwayQuestion": {
+    "question": "Do you listen to podcasts at 1x speed or do you speed-run everything at 1.5x or faster?",
+    "note": "There is no wrong answer. But there is a revealing one.",
+    "provenance": "human_written"
+  }
+}

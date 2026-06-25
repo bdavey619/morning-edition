@@ -1,4 +1,4 @@
-import { getLatestEdition } from "@/lib/editions";
+import { getEditionById, getAllEditions } from "@/lib/editions";
 import GoodMorningHeader from "@/components/GoodMorningHeader";
 import MissionStatement from "@/components/MissionStatement";
 import FrontPageSection from "@/components/FrontPageSection";
@@ -9,20 +9,35 @@ import MiniPuzzleSection from "@/components/MiniPuzzleSection";
 import HallwayQuestionSection from "@/components/HallwayQuestionSection";
 import LookingAheadSection from "@/components/LookingAheadSection";
 import EditionFooter from "@/components/EditionFooter";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 
-const DEFAULT_MISSION =
-  "Morning Edition is a shared front page for San Diego — built to help us notice more, understand where we live, and have better conversations.";
+export async function generateStaticParams() {
+  const editions = getAllEditions();
+  return editions.map((e) => ({ id: e.id }));
+}
 
-export default function Home() {
-  const edition = getLatestEdition();
-  if (!edition) notFound();
+export default async function EditionPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const edition = getEditionById(id);
+  if (!edition || !edition.published) notFound();
 
   return (
     <main className="min-h-screen bg-stone-50">
       <div className="max-w-2xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+        <div className="mb-6">
+          <Link
+            href="/archive"
+            className="text-xs font-medium tracking-widest uppercase text-stone-400 hover:text-stone-700 transition-colors"
+          >
+            ← Archive
+          </Link>
+        </div>
+
         <GoodMorningHeader edition={edition} />
-        <MissionStatement text={edition.missionStatement ?? DEFAULT_MISSION} />
+        {edition.missionStatement && (
+          <MissionStatement text={edition.missionStatement} />
+        )}
         <FrontPageSection story={edition.frontPage} />
         <hr className="border-stone-200 mb-10" />
         <AroundTownSection item={edition.aroundTown} />

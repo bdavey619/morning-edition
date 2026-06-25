@@ -1,0 +1,111 @@
+{
+  "id": "2026-06-24",
+  "date": "2026-06-24",
+  "editionName": "San Diego Edition",
+  "readTime": "7 min",
+  "published": true,
+  "missionStatement": "Morning Edition is a shared front page for San Diego — built to help us notice more, understand where we live, participate in our community, and have better conversations.",
+  "frontPage": {
+    "headline": "UCSD Receives $200M Gift to Launch New School of Climate Science",
+    "summary": "The University of California San Diego announced Monday it received a $200 million gift — the largest in the university's history — to establish a new interdisciplinary School of Climate Science and Policy. The school will house researchers across oceanography, public health, engineering, and economics, and is expected to open its first graduate programs in 2028.",
+    "whyItMatters": "San Diego is home to Scripps Institution of Oceanography, one of the world's foremost ocean research centers, and this gift cements the region's position as a global hub for climate science at exactly the moment governments and industries are looking for answers. It also means real jobs, research contracts, and intellectual energy rooted in this city.",
+    "sources": [
+      {
+        "label": "UCSD News",
+        "url": "https://ucsdnews.ucsd.edu",
+        "outlet": "UC San Diego"
+      },
+      {
+        "label": "Los Angeles Times",
+        "url": "https://www.latimes.com",
+        "outlet": "LA Times"
+      }
+    ],
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Local relevance", "Broad community interest", "Useful context for the week"],
+      "note": "UCSD is one of San Diego's defining institutions. This story is worth knowing regardless of whether you have a connection to the university."
+    },
+    "conversationStarter": "Is San Diego a 'science city'? What would it take for that to be true in a way most people feel?"
+  },
+  "aroundTown": {
+    "title": "Farmers Market at Little Italy Mercato Expands Summer Hours",
+    "type": "Local Discovery",
+    "dateTime": "Every Saturday, 8am–2pm (through September)",
+    "location": "Date Street between Kettner and Union, Little Italy",
+    "description": "The Little Italy Mercato, one of the largest open-air farmers markets in Southern California, has extended its hours through Labor Day weekend. Over 170 local vendors sell produce, flowers, prepared foods, and handmade goods. The summer expansion adds evening pop-up vendors on the last Saturday of each month.",
+    "whyCare": "If your Saturday morning routine doesn't already include this market, it should. It's one of those places that makes San Diego feel like a real city with actual seasons and actual food culture.",
+    "neighborhoodNudge": "Little Italy is worth making the trip for — the market is the best version of it. Get there before 10am if you want easy parking and first pick of the produce.",
+    "ifYouGo": {
+      "bestTime": "8–10am for the best selection and less crowd. After 11am it gets busy.",
+      "parking": "Moderate. Street parking on nearby blocks or the Ace Parking lot on Kettner.",
+      "transit": "The Little Italy trolley stop on the Green Line is a 5-minute walk.",
+      "cost": "Free to browse. Budget $20–40 if you're buying produce and a pastry.",
+      "goodFor": "Solo mornings, couples, anyone who wants an actual Saturday ritual",
+      "insiderTip": "The bread from Bread & Cie and the tamales from the back corner vendor consistently sell out early.",
+      "verificationStatus": "editor_verified"
+    },
+    "source": {
+      "label": "Little Italy Association",
+      "url": "https://www.littleitalysd.com",
+      "outlet": "Little Italy Association"
+    },
+    "provenance": "ai_drafted",
+    "whySelected": {
+      "tags": ["Strong reason to visit another neighborhood", "Broad community interest"],
+      "note": "The Mercato is a reliable anchor event. Expanded hours are a useful update for anyone who hasn't been in a while."
+    },
+    "conversationStarter": "Do you actually cook the things you buy at farmers markets, or is it more of a vibe?"
+  },
+  "storyline": {
+    "topic": "San Diego's Homeless Services Overhaul",
+    "headline": "The City Is Betting Big on a New Model for Homelessness. Here's What's Different This Time.",
+    "body": "San Diego's approach to homelessness has shifted dramatically over the past two years. After years of sweeps, encampment disputes, and a state of emergency declaration, the city has pivoted toward a 'housing first' model backed by a new coordinating office and a multi-year contract with regional nonprofits to provide case management at scale.\n\nThe results so far are mixed but cautiously encouraging. Shelter capacity is up. The number of people in transitional housing placements has increased. But chronic homelessness — people who have been unhoused for years and have significant health or addiction challenges — remains stubbornly difficult to address, and downtown residents and business owners are still frustrated.\n\nThe political storyline is interesting: homelessness has become the defining issue in San Diego city politics in a way that wasn't true a decade ago. Every council race, every mayoral race, touches it. And the model the city is testing now — heavy investment in services and housing rather than enforcement — is being watched by other California cities looking for something that works.\n\nWhat to watch: the city's contract with the regional nonprofit Alliance is up for renewal next spring. That negotiation will tell us a lot about whether city leadership believes the current approach is working.",
+    "source": {
+      "label": "Voice of San Diego",
+      "url": "https://voiceofsandiego.org",
+      "outlet": "Voice of San Diego"
+    },
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Local relevance", "Useful context for the week", "Undercovered by algorithmic feeds"],
+      "note": "The defining civic issue in San Diego right now. Most people have an opinion but not much context."
+    },
+    "conversationStarter": "Do you think San Diego's approach to homelessness is working? What's your read?"
+  },
+  "worthYourTime": {
+    "title": "How Chula Vista Became California's Fastest-Growing City",
+    "author": "Gustavo Arellano",
+    "outlet": "Los Angeles Times",
+    "readingTime": "12 min",
+    "url": "https://www.latimes.com",
+    "teaser": "Arellano reports from Chula Vista as the city navigates explosive growth, new development along the bayfront, and the challenges of building civic identity while doubling in size. If you live anywhere in San Diego County, this piece offers useful context on what's happening south of the 8. Smart, readable, and grounded in real people.",
+    "provenance": "human_reviewed",
+    "whySelected": {
+      "tags": ["Local relevance", "Undercovered by algorithmic feeds"],
+      "note": "Most San Diegans underestimate what's happening in Chula Vista. This piece is a useful corrective."
+    }
+  },
+  "miniPuzzle": {
+    "type": "local-trivia",
+    "prompt": "Balboa Park's famous theater hosts Broadway touring productions and is one of the oldest continually operating theaters in California. What is it called?",
+    "options": [
+      "The Old Globe",
+      "The Lyceum",
+      "The Spreckels Theatre",
+      "The San Diego Civic"
+    ],
+    "answer": "The Old Globe",
+    "hint": "It was modeled after the original theater in London associated with Shakespeare.",
+    "provenance": "human_written",
+    "whySelected": {
+      "tags": ["Local relevance"],
+      "note": "The Old Globe is one of those San Diego institutions that locals know of but might not know much about."
+    }
+  },
+  "hallwayQuestion": {
+    "question": "If a gas pump says 'see attendant,' do you go inside or drive to a different station?",
+    "note": "This reveals a lot about a person.",
+    "provenance": "human_written"
+  }
+}
