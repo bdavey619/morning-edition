@@ -57,42 +57,6 @@
     },
     "conversationStarter": "Would you rather deal with impossible parking or pay for the Uber?"
   },
-  "lookingAhead": {
-    "title": "San Diego FC vs. LA Galaxy — Rivalry Match at Snapdragon Stadium",
-    "date": "Saturday, July 5",
-    "neighborhood": "Mission Valley",
-    "description": "San Diego FC hosts the LA Galaxy in what's shaping up to be the biggest regular-season home match of their inaugural year. The cross-border SoCal rivalry and July 4th weekend timing have driven strong ticket demand.",
-    "worthLeavingNeighborhoodFor": "yes",
-    "planningDifficulty": "medium",
-    "decisionDeadline": "By Wednesday July 2 — tickets are moving and rideshare planning takes a day",
-    "travelFriction": 3,
-    "energyPayoff": 5,
-    "goodFor": "Sports fans, people curious about SDFC, groups, anyone who wants a big-crowd San Diego experience",
-    "gettingThere": "Snapdragon Stadium is directly accessible from the San Diego Trolley (Green and Orange lines, Snapdragon Stadium station). Rideshare drops off nearby. Driving is manageable but parking fills fast.",
-    "parkingNote": "Stadium lots fill 1–2 hours before kickoff. Street parking around Mission Valley is limited. If driving, arrive early or park at a nearby trolley station and ride in.",
-    "transitNote": "The San Diego Trolley (Green and Orange lines) stops directly at Snapdragon Stadium station — verified via sdmts.com. This is the easiest way to arrive. Trains run more frequently on event days.",
-    "rideshareNote": "Rideshare works well for arrival; expect surge pricing and waits after the match. Consider the trolley home.",
-    "insiderTip": "Tailgate lots open 2.5 hours before kickoff. The supporters section in section 128 is loud and worth experiencing once even if you're not a regular.",
-    "conversationStarter": "Would you rather fight for parking or pay for the Uber?",
-    "sources": [
-      {
-        "label": "San Diego FC — Schedule",
-        "url": "https://www.sandiegofc.com/schedule",
-        "outlet": "San Diego FC"
-      },
-      {
-        "label": "MTS Trolley — Snapdragon Station",
-        "url": "https://www.sdmts.com",
-        "outlet": "San Diego MTS"
-      }
-    ],
-    "provenance": "human_reviewed",
-    "verificationStatus": "source_verified",
-    "whySelected": {
-      "tags": ["Strong reason to visit another neighborhood", "Conversation potential", "Local relevance"],
-      "note": "July 4th weekend, rivalry match, inaugural season — this is a calendar anchor. The trolley access makes it genuinely easier than most big events in SD."
-    }
-  },
   "storyline": {
     "topic": "San Diego FC's First MLS Season",
     "headline": "San Diego FC Is Already Rewriting What a Startup MLS Club Can Look Like",
